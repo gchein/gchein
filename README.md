@@ -1,5 +1,5 @@
-<h1 align="left">Hi there 👋, I'm Gabriel.</h1>
-<h1 align="left">Grab a coffee ☕ and make yourself at home 🏡</h1>
+<h1 align="left">Hi there 👋, I'm Gabriel. 
+  Grab a coffee ☕ and make yourself at home 🏡</h1>
 <h3 align="center">A fullstack web developer, with a passion for learning and building new stuff</h3>
 
 - 👨‍💻 My latest project: Hobbyist [(take a look at the repo!)](https://github.com/gabrielcoelho90/hobbyist) [(or the live app!)](https://www.hobbyist.social/)
