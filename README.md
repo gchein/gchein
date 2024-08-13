@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Gabriel. Grab a coffee ☕ and make yourself at home 🏡</h1>
 <h3 align="center">A fullstack web developer, with a passion for learning and building new stuff</h3>
 
-- 👨‍💻 My latest project: Hobbyist [(take a look at the repo!)](https://github.com/gabrielcoelho90/hobbyist) [(or the live app!)](https://www.hobbyist.social/)
+- 👨‍💻 My latest project: Hobbyist [(take a look at the repo!)](https://github.com/gabrielcoelho90/hobbyist) [(or the live app!)](https://www.hobbyist.social/) [(or the video demo!)](https://www.youtube.com/watch?v=lYYAOI8KatQ&t=648s)
 
 - 🔎 Currently searching for **new ways to improve myself and fun open-source projects**
 
